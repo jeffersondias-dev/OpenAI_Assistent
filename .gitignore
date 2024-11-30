@@ -1,0 +1,6 @@
+# Ignore arquivos sensíveis
+.env
+
+# Ignore pastas e arquivos específicos (exemplo: node_modules, build, etc.)
+node_modules/
+dist/
