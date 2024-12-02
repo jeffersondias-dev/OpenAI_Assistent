@@ -1,4 +1,4 @@
 
-export function returnAPI(mensagem_user) {
-    return mensagem_user;
+export function returnAPI(message_user) {
+    return message_user;
 }
